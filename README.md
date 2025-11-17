@@ -113,7 +113,7 @@ Add screenshots of your homepage, about section, and projects section here.
 
 1. Clone the repo:
 
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/your-username/Portfolio Website.git
 
 
 2. Navigate to the folder:
