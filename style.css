@@ -188,6 +188,17 @@ h2 {
     transform: scale(1.05);
 }
 
+/* Multiple Resume Buttons Section */
+.resume-section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.resume-section .resume-btn {
+    display: inline-block;
+    margin: 10px;
+}
+
 /* Contact */
 #contact p a {
     color: var(--accent);
