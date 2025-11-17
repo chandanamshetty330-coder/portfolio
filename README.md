@@ -1,9 +1,10 @@
 🌐 Portfolio Website — Chandana M
 
+
+### 👩‍💻 Developed by [Chandana M](https://github.com/chandanamshetty330-coder)
+
 A modern, responsive, and clean personal portfolio website built using HTML, CSS, and JavaScript.
 This portfolio showcases my skills, projects, education, resume, and contact information as a Data Science student and aspiring Full-Stack Developer.
-
-
 
 
 📌 Features
